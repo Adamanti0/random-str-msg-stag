@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-stag",
+  "version": "1.0.0",
+  "description": "Random String Messages Stag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adamanti0/random-str-msg-stag.git"
+  },
+  "keywords": [],
+  "author": "Tito Aranda gioser.tito.adamantio@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Adamanti0/random-str-msg-stag/issues"
+  },
+  "homepage": "https://github.com/Adamanti0/random-str-msg-stag#readme",
+  "bin": {
+    "random-str-msg-stag": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
