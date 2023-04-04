@@ -1,16 +1,16 @@
 const messages = [
-  "This is where it all begins...",
-  "Commit committed",
-  "Version control is awful",
-  "COMMIT ALL THE FILES!",
-  "The same thing we do every night, Pinky - try to take over the world!",
-  "Lock S-foils in attack position",
-  "This commit is a lie",
-  "I'll explain when you're older!",
-  "Here be Dragons",
-  "Reinventing the wheel. Again.",
-  "This is not the commit message you are looking for",
-  "Batman! (this commit has no parents)"
+  "1 This is where it all begins...",
+  "2 Commit committed",
+  "3 Version control is awful",
+  "4 COMMIT ALL THE FILES!",
+  "5 The same thing we do every night, Pinky - try to take over the world!",
+  "6 Lock S-foils in attack position",
+  "7 This commit is a lie",
+  "8 I'll explain when you're older!",
+  "9 Here be Dragons",
+  "10 Reinventing the wheel. Again.",
+  "11 This is not the commit message you are looking for",
+  "12 Batman! (this commit has no parents)"
 ];
 
 const funnyCommit = () => {
